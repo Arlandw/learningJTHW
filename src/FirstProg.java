@@ -1,4 +1,4 @@
-/**
+/*
  * Created by arlandwhitfield on 5/25/17.
  * Exercise 1: An important Message
  */
